@@ -1,0 +1,6 @@
+.hero {
+    background-image: url(../img/hero-lg.svg);
+    background-size: cover;
+    background-position: 60% 70%;
+    background-repeat: no-repeat;    
+}
